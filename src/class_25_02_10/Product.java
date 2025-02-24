@@ -1,6 +1,10 @@
+package class_25_02_10;
+
 public class Product {
     private String name;
     private double price;
+
+    public Product() {}
 
     public String getName() {
         return name;
