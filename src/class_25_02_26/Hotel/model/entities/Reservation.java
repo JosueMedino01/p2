@@ -1,4 +1,4 @@
-package class_25_02_26.model.entities;
+package class_25_02_26.Hotel.model.entities;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

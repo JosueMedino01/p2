@@ -1,4 +1,4 @@
-package class_25_02_26.model.exceptions;
+package class_25_02_26.Hotel.model.exceptions;
 
 import java.time.LocalDate;
 

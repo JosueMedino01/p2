@@ -1,12 +1,12 @@
-package class_25_02_26.model.services;
+package class_25_02_26.Hotel.model.services;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
-import class_25_02_26.model.entities.Reservation;
-import class_25_02_26.model.exceptions.InvalidRangeDate;
-import class_25_02_26.model.exceptions.InvalidUpdateDate;
+import class_25_02_26.Hotel.model.entities.Reservation;
+import class_25_02_26.Hotel.model.exceptions.InvalidRangeDate;
+import class_25_02_26.Hotel.model.exceptions.InvalidUpdateDate;
 
 public class ReservationService {
     Scanner scan = new Scanner(System.in);
